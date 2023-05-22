@@ -14,3 +14,10 @@ Following are the specific items and materials required to create the Satyr 1 He
 * Screws: [M3 FHSC Screws recommended kit](https://www.amazon.com/gp/product/B086MC31JT)
                    
 * Brass Inserts: [M3x5x5 Brass Heatset inserts](https://www.amazon.com/gp/product/B07TZ37HXJ)
+
+
+
+Screws Breakdown:
+16 FHSC M3x10mm
+8 FHSC M3x16mm
+22 M3x5mmx5mm Brass Heatset Inserts
