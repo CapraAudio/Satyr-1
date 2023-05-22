@@ -18,6 +18,6 @@ Following are the specific items and materials required to create the Satyr 1 He
 
 
 Screws Breakdown:
-* 16 FHSC M3x10mm
+* 16 FHSC M3x12mm
 * 8 FHSC M3x16mm
 * 22 M3x5mmx5mm Brass Heatset Inserts
