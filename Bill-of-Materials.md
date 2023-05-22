@@ -1,4 +1,4 @@
-Following are the specific items and materials required to create the Satyr 1 Headphones:
+# Following are the specific items and materials required to create the Satyr 1 Headphones:
 
              Pads: JEUOCOU Replacement Ear Pads (Velour)
                    https://www.amazon.com/dp/B0B3GVK9D4
