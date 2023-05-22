@@ -3,7 +3,8 @@ Following are the specific items and materials required to create the Satyr 1 He
              Pads: JEUOCOU Replacement Ear Pads (Velour)
                    https://www.amazon.com/dp/B0B3GVK9D4
                 
-         Speakers: [HPD-40N16PET00-32-ND   40mm Headphone Speaker Peerless by Tympany](https://www.digikey.com/en/products/detail/peerless-by-tymphany/hpd-40n16pet00-32/6211127)
+         Speakers: HPD-40N16PET00-32-ND   40mm Headphone Speaker Peerless by Tympany
+                   https://www.digikey.com/en/products/detail/peerless-by-tymphany/hpd-40n16pet00-32/6211127
                 
        Connectors: Mini XLR Connectors
                    https://www.amazon.com/dp/B07GTDWNM4
