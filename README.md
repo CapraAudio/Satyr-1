@@ -6,3 +6,4 @@ Follow these instructions to the letter to assemble the Satyr 1 Headphones. Ever
 
 ## [Assembly Instructions](https://github.com/CapraAudio/Satyr-1/blob/main/Assembly-Instructions.md)
 
+Huge thanks to Griffin Silver for help with tuning the headphones.
