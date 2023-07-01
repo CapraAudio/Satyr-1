@@ -38,6 +38,6 @@ Placeholder Image
 ![20230603_174841](https://github.com/CapraAudio/Satyr-1/assets/122894651/eecee1e9-9831-42c9-ba88-808cc688fd55)
 ### - Now you can install the pad
 ![20230603_175005](https://github.com/CapraAudio/Satyr-1/assets/122894651/5b31aa9a-1e5c-4e7c-ad49-3b810cc6d038)
-### - Using X Screws and M3 Washers install the yoke
+### - Using 2 M3x12 Screws and 2 M3 Washers attach the yoke to the cup.
 
 ### - To install the Headband Follow the Instructions [HERE](https://github.com/CapraAudio/CapraHeadband/tree/main)
