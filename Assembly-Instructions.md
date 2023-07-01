@@ -8,14 +8,15 @@
 ### - Insert the Grille into the Baffle Plate with the flat side down also shown in the picture.
 ![20230603_173855](https://github.com/CapraAudio/Satyr-1/assets/122894651/e4237306-4665-49e8-b6ce-bf5bcd1c1d08)
 
-### - Next Solder the wires to the Driver(Speaker) positive and negative are shown on the PCB.
+### - Solder the wires to the Driver(Speaker) positive and negative are shown on the PCB.
 ![20230603_173937](https://github.com/CapraAudio/Satyr-1/assets/122894651/bdf2af35-ef8e-4ddd-b989-696502b900ba)
 ### - Feed the wires through the hole on the side of the Rear Housing and pull through.
 
 ### - Solder the wires to the Mini-XLR connector as shown below (the picture shows you facing the front of the connector)
 ![Screenshot 2023-07-01 113602](https://github.com/CapraAudio/Satyr-1/assets/122894651/2c4a67ad-d952-4a72-a30b-05f7dded4603)
 
-### - Press the Connector into the Rear Housing with 2-3 small dabs of super glue around the outside of the connector to insure a secure connection. 
+### - Press in the 4 m3 inserts into the rear housing.
+### - And press the Connector into the Rear Housing with 2-3 small dabs of super glue around the outside of the connector to insure a secure connection. 
 ![20230603_173916](https://github.com/CapraAudio/Satyr-1/assets/122894651/4936fca1-bb7a-4746-ac89-84923fd9e5bb)
 
 ### - Press the Driver(Speaker) into the Baffle Plate as show below.
