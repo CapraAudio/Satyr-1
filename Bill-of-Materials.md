@@ -15,6 +15,7 @@ Following are the specific items and materials required to create the Satyr 1 He
                    
 * Brass Inserts: [M3x5x5 Brass Heatset inserts](https://www.amazon.com/gp/product/B07TZ37HXJ)
 
+* Putty: [BluTack](https://www.amazon.com/Sticky-Tack-Samstr%C3%B6ng-Adhesive-Perfect/dp/B0839P2STQ/)
 
 
 Screws Breakdown:
