@@ -31,7 +31,7 @@
 ### - Screw down the Driver Clamp{E} into the Baffle Plate, press it down to ensure a good seal with the blutack
 ![20230603_174037](https://github.com/CapraAudio/Satyr-1/assets/122894651/ad9fc3b3-26e6-4d30-a414-9879df5e97a8)
 
-### - Screw the Baffle Plate{D} into the Rear Housing using 4 screws.
+### - Screw the Baffle Plate{D} into the Rear Housing using 4 screws. With the thick side towards the rear of the headphone. 
 ### - If you have the press bags as the source for the nylon cut it along the seam to make it flat and large enough to cover the Baffle Ring
 
 ### - Lay the nylon flat over the baffle plate{D}
