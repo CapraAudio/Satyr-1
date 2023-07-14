@@ -9,6 +9,10 @@ Follow these instructions to the letter to assemble the Satyr 1 Headphones. Ever
 ## [Assembly Instructions](https://github.com/CapraAudio/Satyr-1/blob/main/Assembly-Instructions.md)
 
 ## [Files for the Headband](https://www.printables.com/model/429232-capra-headband-v2)
-Huge thanks to Griffin Silver for help with tuning this design!
 
 ## [Join the Discord for support](https://discord.gg/fb4HdDvErF)
+
+
+
+
+Huge thanks to Griffin Silver for help with tuning this design!
