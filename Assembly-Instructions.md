@@ -1,4 +1,4 @@
-# NOTICE!
+# NOTICE
 
 It is very important to follow all of these steps to the letter, devating from any of these steps will result in a poorly tuned headphone. If at the end your headphones sound off or wrong give it a few days of listening before you make judgements or try to make changes, if you are used to bad headphones it may take you time to get used to good headphones.
 
@@ -22,7 +22,7 @@ It is very important to follow all of these steps to the letter, devating from a
 
 - Press in the 4 m3 inserts into the Rear Ring{A}.
 
-- Then press the Connector into the Rear Ring{A} with 2-3 small dabs of super glue around the outside of the connector to insure a secure connection. 
+- Then press the Connector into the Rear Ring{A} with 2-3 small dabs of super glue around the outside of the connector to insure a secure connection.
 
 ![20230603_173916](https://github.com/CapraAudio/Satyr-1/assets/122894651/4936fca1-bb7a-4746-ac89-84923fd9e5bb)
 
