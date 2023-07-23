@@ -16,3 +16,8 @@ Follow these instructions to the letter to assemble the Satyr 1 Headphones. Ever
 ## [Support Discord](https://discord.gg/fb4HdDvErF)
 
 Huge thanks to Griffin Silver for help with tuning this design!
+
+### Intended Frequency Response
+
+![Thumbnail](https://github.com/CapraAudio/Satyr-1/blob/main/Satyr1FR.jpg)  
+Measured with a clone IEC-711 coupler on [my own stand](https://www.printables.com/model/506860-iec711-stand).
