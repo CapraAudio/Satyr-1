@@ -1,7 +1,10 @@
 # The following are the specific items and materials required to create the Satyr 1 Headphones
 
-* Pads: [JEUOCOU Replacement Ear Pads (Velour)](https://www.amazon.com/dp/B0B3GVK9D4)
-  If they are out of stock the less comfy but still good sounding pads are the [Geekria Pads (Velour)](https://www.amazon.com/gp/product/B07CL75L81)
+* Pads: <s>[JEUOCOU Replacement Ear Pads (Velour)](https://www.amazon.com/dp/B0B3GVK9D4)</s>
+
+  (The JEUOCOU Pads listing has been swapped for different pads so they are no longer a reliable source.)
+
+  [Geekria Pads (Velour)](https://www.amazon.com/gp/product/B07CL75L81)
 
 * Speakers: [HPD-40N16PET00-32-ND   40mm Headphone Speaker Peerless by Tympany](https://www.digikey.com/en/products/detail/peerless-by-tymphany/hpd-40n16pet00-32/6211127)
 
