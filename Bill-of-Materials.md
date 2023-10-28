@@ -4,7 +4,8 @@
 
   (The JEUOCOU Pads listing has been swapped for different pads so they are no longer a reliable source.)
 
-  [Geekria Pads (Velour)](https://www.amazon.com/gp/product/B07CL75L81)
+  [Geekria Pads (Velour)](https://www.amazon.com/gp/product/B07CL75L81) Cheaper
+  [Yaxi Pads (Velour)](https://www.amazon.com/gp/product/B07YD7CD1T) Expensive but better sound
 
 * Speakers: [HPD-40N16PET00-32-ND   40mm Headphone Speaker Peerless by Tympany](https://www.digikey.com/en/products/detail/peerless-by-tymphany/hpd-40n16pet00-32/6211127)
 
