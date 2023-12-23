@@ -1,5 +1,7 @@
 # Satyr-1
 
+![20230819_123429](https://github.com/CapraAudio/Satyr-1/assets/122894651/0a2329e6-dab7-4b71-a7d0-419733163c56)
+
 Follow these instructions to the letter to assemble the Satyr 1 Headphones. Every step of this process will change the way the headphones sound and missing any of these steps will result in a headphone that does not sound like the intended product. This means it will likely will sound worse.  
 
 **You can buy the files on
