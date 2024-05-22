@@ -16,9 +16,21 @@ It is very important to follow all of these steps to the letter, devating from a
 
 - Feed the wires through the hole on the side of the Rear Housing and pull through.
 
-- Solder the wires to the Mini-XLR connector as shown below (the picture shows you facing the front of the connector)
+# MiniXLR Connectors:
+- Solder the wires to the Mini-XLR connector as shown below. (the picture shows you facing the front of the connector)
 
 ![Screenshot 2023-07-01 113602](https://github.com/CapraAudio/Satyr-1/assets/122894651/2c4a67ad-d952-4a72-a30b-05f7dded4603)
+
+# 3.5mm Connectors:
+- Solder the wires to the 3.5mm connector as shown below.
+
+![20240521_201230](https://github.com/CapraAudio/Satyr-1/assets/122894651/d3af9b17-ccc6-4de0-b97f-36079af1eae9)
+
+- I recommend for cable compatibility that you bridge the two negatives by bending the long pin towards the short negative pin as shown below.
+![20240521_201307](https://github.com/CapraAudio/Satyr-1/assets/122894651/e7518954-67dc-40ed-afff-2cbc53bb133d)
+
+![20240521_201533](https://github.com/CapraAudio/Satyr-1/assets/122894651/4e96dd81-bc68-4fd1-b997-00669ef45dd8)
+
 
 - Press in the 4 m3 inserts into the Rear Ring{A}.
 
