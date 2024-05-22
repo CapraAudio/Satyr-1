@@ -12,7 +12,7 @@
 
 * Speakers: [HPD-40N16PET00-32-ND   40mm Headphone Speaker Peerless by Tympany](https://www.digikey.com/en/products/detail/peerless-by-tymphany/hpd-40n16pet00-32/6211127)
 
-* Connectors: [Mini XLR Connectors](https://www.amazon.com/dp/B07GTDWNM4)
+* Connectors: [Mini XLR Connectors](https://www.amazon.com/dp/B07GTDWNM4) or [3.5mm Connectors](https://www.amazon.com/gp/product/B07MN1RK7F)
 
 * Wire: [22 gauge](https://www.amazon.com/dp/B077XBWX8V)
 
