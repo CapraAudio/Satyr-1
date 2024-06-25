@@ -58,7 +58,7 @@ It is very important to follow all of these steps to the letter, devating from a
 - Screw the Baffle Plate{D} into the Rear Housing using 4 screws. With the thick side towards the rear of the headphone.
 - If you have the press bags as the source for the nylon cut it along the seam to make it flat and large enough to cover the Baffle Ring
 
-- Lay the nylon flat over the baffle plate{D}
+- Lay 2 layers of the nylon flat over the baffle plate{D}
 
 ![20230603_174310](https://github.com/CapraAudio/Satyr-1/assets/122894651/8af2e46b-ab0a-4a07-bd1f-0fbf26b91b17)
 
